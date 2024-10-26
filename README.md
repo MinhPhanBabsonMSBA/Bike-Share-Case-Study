@@ -6,7 +6,7 @@ Welcome to the Bike Share case study! Over the past two years, the bike share ne
 
 ## 2. Business Questions
 
-| Business Questions | Dashboard Link|
+| Business Questions | Dashboard Links|
 | ------------- | ------------- |
 | What are the number of rides that casual and registered users take in each quarter of the years 2011 and 2012 under different weather conditions ?| https://public.tableau.com/app/profile/minh.phan7291/viz/MinhPhan-MSB6130BikeShare/Visualization1|
 |What are the differences in the number of rides in various weather conditions, broken down month by month during weekdays and weekends ?|https://public.tableau.com/app/profile/minh.phan7291/viz/MinhPhan-MSB6130BikeShare/Visualization2|
