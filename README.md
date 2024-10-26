@@ -1,10 +1,10 @@
-# Bike-Share-Case-Study : Network Usage Analysis
+# Bike-Share-Case-Study 
 
 
 ## 1. Introduction
-Welcome to the Bike Share Network Usage Analysis case study! Over the past two years, our bike share network has meticulously collected hourly usage data, which is now ready to be mined for valuable insights. This dataset, located in bike_share.csv, includes a variety of features such as date and time, season, weather conditions, temperature, and user type (casual or registered). The primary objective of this analysis is to explore how customers are utilizing our bike share service and to identify any significant differences in behavior between casual and registered users. By answering key business questions and providing actionable insights, we aim to support the leadership team in making data-driven decisions to enhance our service.
+Welcome to the Bike Share case study! Over the past two years, the bike share network has meticulously collected hourly usage data, which is now ready to be mined for valuable insights. This dataset, located in bike_share.csv, includes a variety of features such as date and time, season, weather conditions, temperature, and user type (casual or registered). The primary objective of this analysis is to explore how customers are utilizing our bike share service and to identify any significant differences in behavior between casual and registered users. By answering key business questions and providing actionable insights, we aim to support the leadership team in making data-driven decisions to enhance our service.
 
-## 2. Business Question
+## 2. Business Questions
 
 | Business Questions | Dashboard Link|
 | ------------- | ------------- |
