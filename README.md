@@ -1,4 +1,4 @@
-# Bike-Share-Case-Study 
+# Capital Bike Share Case Study 
 
 
 ## 1. Introduction
